@@ -4,4 +4,3 @@
 
 #支持指定架构
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
-
