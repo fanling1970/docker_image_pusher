@@ -3,4 +3,4 @@
 
 
 #支持指定架构
---platform=linux/arm64 ailg/alist:latest
+--platform=linux/arm64 ailg/g-box:hostmode
