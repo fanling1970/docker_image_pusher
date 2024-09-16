@@ -3,4 +3,4 @@
 
 
 #支持指定架构
---platform=linux/arm64 ailg/g-box:hostmode
+--platform=linux/arm64 6053537/portainer-ce:latest
