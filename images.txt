@@ -3,9 +3,5 @@
 
 
 #支持指定架构
---platform=linux/arm64 6053537/portainer-ce
---platform=linux/arm64 b3log/siyuan
---platform=linux/arm64 remotepinee/private-cinema:latest
---platform=linux/arm64 ghcr.io/fish2018/pansou-web
---platform=linux/arm64 hurryos/iptvs-app:arm64
---platform=linux/arm64 guovern/iptv-api
+--platform=linux/arm64 linkease/istorepanel
+
