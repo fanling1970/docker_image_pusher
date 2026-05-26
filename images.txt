@@ -3,5 +3,5 @@
 
 
 #支持指定架构
---platform=linux/arm64 linkease/istorepanel
+--platform=linux/arm64 moelin/1panel
 
